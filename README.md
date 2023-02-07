@@ -18,3 +18,5 @@ il est aussi possible de faire de la génération aléatoir de grille. <br>
 
 les touches `+` et `-` (ou `=` et `6`) permetent d'augmenter ou de diminuer la vitesse de la simulation <br>
 la touche `entrer` permet de lancer ou d'arrêter la simulation et la touche `effacer` permet d'effacer l'entièreté de la grille
+
+ce programme utilise l'interface graphique pygame qu'il faut installer
