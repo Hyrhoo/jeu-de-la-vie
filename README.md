@@ -1,7 +1,7 @@
 
 # jeu-de-la-vie
 
-> Ce programme utilise l'interface graphique **pygame** qu'il faut installer préalablement.
+> Ce programme utilise la bibliothèque graphique **pygame** qu'il faut installer préalablement.
 
 Il s'agit du jeu de la vie imaginé par John Horton Conway en 1970. <br>
 Les regles sont simple:
@@ -19,5 +19,5 @@ Il est aussi possible de faire de la génération aléatoir de grille avec les t
 - et la touche `4` génère une grille aléatoire symétrique horizontalement et verticalement <br>
 
 Les touches `+` et `-` (ou `=` et `6`) permettent d'augmenter ou de diminuer la vitesse de la simulation. <br>
-La touche `entrer` permet de lancer ou d'arrêter la simulation et la touche `effacer` permet d'effacer l'entièreté de la grille.
-
+La touche `entrer` permet de lancer ou d'arrêter la simulation et la touche `effacer` permet d'effacer l'entièreté de la grille.  
+La touche `esc` permet de quitter le programme.
